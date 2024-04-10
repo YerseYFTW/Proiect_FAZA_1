@@ -1,0 +1,11 @@
+﻿2;
+0;John;3;123 Main St;250000;
+1;Alice;2;456 Elm St;300000;
+3;
+3;David;2;1;280000;
+5;Emily;0;2;320000;
+4;Sarah;0;1;270000;
+2;
+2;Ionut;Propunere;Vreau sa ma angajez la voi.;
+6;Marian;Internship; as dori sa vin la voi;
+6
